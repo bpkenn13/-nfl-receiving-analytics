@@ -942,7 +942,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020527,Deuce McAllister,RB,2001,1,NO,0,0,0
 00-0020528,Shaun Rogers,DT,2001,1,DET,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,1,LAC,1,12,0
-,,,2001,1,CHI,0,0,0
 00-0000100,Chidi Ahanotu,DT,2001,2,LA,0,0,0
 00-0000108,David Akers,K,2001,2,PHI,0,0,0
 00-0000112,Chris Akins,DB,2001,2,GB,0,0,0
@@ -1857,7 +1856,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020533,Leonard Davis,G,2001,2,ARI,0,0,0
 00-0020535,Justin Smith,DE,2001,2,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,2,LAC,2,27,0
-,,,2001,2,ATL,0,0,0
 00-0000017,Donnie Abraham,CB,2001,3,TB,0,0,0
 00-0000032,Tom Ackerman,C,2001,3,NO,0,0,0
 00-0000045,Flozell Adams,OT,2001,3,DAL,0,0,0
@@ -2793,7 +2791,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020527,Deuce McAllister,RB,2001,3,NO,0,0,0
 00-0020535,Justin Smith,DE,2001,3,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,3,LAC,1,15,0
-,,,2001,3,PIT,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,4,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,4,TB,0,0,0
 00-0000100,Chidi Ahanotu,DT,2001,4,LA,0,0,0
@@ -3758,7 +3755,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020528,Shaun Rogers,DT,2001,4,DET,0,0,0
 00-0020535,Justin Smith,DE,2001,4,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,4,LAC,2,12,0
-,,,2001,4,ATL,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,5,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,5,TB,0,0,0
 00-0000065,Sam Adams,DT,2001,5,BAL,0,0,0
@@ -4675,7 +4671,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020533,Leonard Davis,G,2001,5,ARI,0,0,0
 00-0020535,Justin Smith,DE,2001,5,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,5,LAC,3,13,0
-,,,2001,5,ATL,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,6,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,6,TB,0,0,0
 00-0000065,Sam Adams,DT,2001,6,BAL,0,0,0
@@ -5516,7 +5511,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020535,Justin Smith,DE,2001,6,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,6,LAC,1,11,0
 00-0020543,Matt Light,OT,2001,6,NE,0,0,0
-,,,2001,6,BUF,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,7,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,7,TB,0,0,0
 00-0000065,Sam Adams,DT,2001,7,BAL,0,0,0
@@ -6433,7 +6427,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020533,Leonard Davis,G,2001,7,ARI,0,0,0
 00-0020535,Justin Smith,DE,2001,7,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,7,LAC,1,9,0
-,,,2001,7,KC,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,8,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,8,TB,0,0,0
 00-0000045,Flozell Adams,OT,2001,8,DAL,0,0,0
@@ -7339,7 +7332,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020528,Shaun Rogers,DT,2001,8,DET,0,0,0
 00-0020531,Drew Brees,QB,2001,8,LAC,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,8,LAC,2,20,0
-,,,2001,8,NE,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,9,TB,0,0,0
 00-0000065,Sam Adams,DT,2001,9,BAL,0,0,0
 00-0000100,Chidi Ahanotu,DT,2001,9,LA,0,0,0
@@ -8327,7 +8319,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020528,Shaun Rogers,DT,2001,9,DET,0,0,0
 00-0020535,Justin Smith,DE,2001,9,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,9,LAC,3,21,0
-,,,2001,9,ATL,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,10,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,10,TB,0,0,0
 00-0000045,Flozell Adams,OT,2001,10,DAL,0,0,0
@@ -9310,7 +9301,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020528,Shaun Rogers,DT,2001,10,DET,0,0,0
 00-0020535,Justin Smith,DE,2001,10,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,10,LAC,3,14,0
-,,,2001,10,BAL,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,11,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,11,TB,0,0,0
 00-0000045,Flozell Adams,OT,2001,11,DAL,0,0,0
@@ -10276,7 +10266,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020528,Shaun Rogers,DT,2001,11,DET,0,0,0
 00-0020535,Justin Smith,DE,2001,11,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,11,LAC,13,72,0
-,,,2001,11,GB,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,12,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,12,TB,0,0,0
 00-0000100,Chidi Ahanotu,DT,2001,12,LA,0,0,0
@@ -11253,7 +11242,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020528,Shaun Rogers,DT,2001,12,DET,0,0,0
 00-0020535,Justin Smith,DE,2001,12,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,12,LAC,4,26,0
-,,,2001,12,PHI,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,13,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,13,TB,0,0,0
 00-0000045,Flozell Adams,OT,2001,13,DAL,0,0,0
@@ -12205,7 +12193,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020535,Justin Smith,DE,2001,13,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,13,LAC,4,13,0
 00-0020542,Micah Ross,WR,2001,13,JAX,0,0,0
-,,,2001,13,ATL,0,0,0
 00-0000017,Donnie Abraham,CB,2001,14,TB,0,0,0
 00-0000045,Flozell Adams,OT,2001,14,DAL,0,0,0
 00-0000100,Chidi Ahanotu,DT,2001,14,LA,0,0,0
@@ -13175,7 +13162,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020535,Justin Smith,DE,2001,14,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,14,LAC,6,23,0
 00-0020542,Micah Ross,WR,2001,14,JAX,0,0,0
-,,,2001,14,ARI,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,15,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,15,TB,0,0,0
 00-0000065,Sam Adams,DT,2001,15,BAL,0,0,0
@@ -14151,7 +14137,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020535,Justin Smith,DE,2001,15,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,15,LAC,3,11,0
 00-0020542,Micah Ross,WR,2001,15,JAX,0,0,0
-,,,2001,15,LV,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,16,TB,0,0,0
 00-0000017,Donnie Abraham,CB,2001,16,TB,0,0,0
 00-0000032,Tom Ackerman,C,2001,16,NO,0,0,0
@@ -15109,7 +15094,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020535,Justin Smith,DE,2001,16,CIN,0,0,0
 00-0020536,LaDainian Tomlinson,RB,2001,16,LAC,10,68,0
 00-0020542,Micah Ross,WR,2001,16,KC,0,0,0
-,,,2001,16,BAL,0,0,0
 00-0000007,Rabih Abdullah,RB,2001,17,TB,2,26,0
 00-0000017,Donnie Abraham,CB,2001,17,TB,0,0,0
 00-0000065,Sam Adams,DT,2001,17,BAL,0,0,0
@@ -16081,7 +16065,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0020527,Deuce McAllister,RB,2001,17,NO,0,0,0
 00-0020528,Shaun Rogers,DT,2001,17,DET,0,0,0
 00-0020535,Justin Smith,DE,2001,17,CIN,0,0,0
-,,,2001,17,IND,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,1,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,1,NYJ,0,0,0
 00-0000045,Flozell Adams,OT,2002,1,DAL,0,0,0
@@ -17130,7 +17113,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021377,Ed Reed,FS,2002,1,BAL,0,0,0
 00-0021382,Ryan Sims,DE,2002,1,KC,0,0,0
 00-0021386,Travis Stephens,RB,2002,1,TB,1,6,0
-,,,2002,1,NYG,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,2,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,2,NYJ,0,0,0
 00-0000065,Sam Adams,DT,2002,2,LV,0,0,0
@@ -18183,7 +18165,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021357,Rock Cartwright,RB,2002,2,WAS,0,0,0
 00-0021376,T.J. Duckett,RB,2002,2,ATL,0,0,0
 00-0021377,Ed Reed,FS,2002,2,BAL,0,0,0
-,,,2002,2,CHI,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,3,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,3,NYJ,0,0,0
 00-0000045,Flozell Adams,OT,2002,3,DAL,0,0,0
@@ -19120,7 +19101,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021376,T.J. Duckett,RB,2002,3,ATL,0,0,0
 00-0021381,Quentin Jammer,CB,2002,3,LAC,0,0,0
 00-0021384,Wendell Bryant,DT,2002,3,ARI,0,0,0
-,,,2002,3,CHI,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,4,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,4,NYJ,0,0,0
 00-0000065,Sam Adams,DT,2002,4,LV,0,0,0
@@ -20039,7 +20019,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021382,Ryan Sims,DE,2002,4,KC,0,0,0
 00-0021384,Wendell Bryant,DT,2002,4,ARI,0,0,0
 00-0021385,Andre Gurode,C,2002,4,DAL,0,0,0
-,,,2002,4,BUF,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,5,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,5,NYJ,0,0,0
 00-0000100,Chidi Ahanotu,DT,2002,5,BUF,0,0,0
@@ -20947,7 +20926,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021381,Quentin Jammer,CB,2002,5,LAC,0,0,0
 00-0021382,Ryan Sims,DE,2002,5,KC,0,0,0
 00-0021384,Wendell Bryant,DT,2002,5,ARI,0,0,0
-,,,2002,5,ATL,0,0,0
 00-0000045,Flozell Adams,OT,2002,6,DAL,0,0,0
 00-0000065,Sam Adams,DT,2002,6,LV,0,0,0
 00-0000100,Chidi Ahanotu,DT,2002,6,BUF,0,0,0
@@ -21851,7 +21829,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021377,Ed Reed,FS,2002,6,BAL,0,0,0
 00-0021379,Patrick Ramsey,QB,2002,6,WAS,0,0,0
 00-0021381,Quentin Jammer,CB,2002,6,LAC,0,0,0
-,,,2002,6,CIN,0,0,0
 00-0000017,Donnie Abraham,CB,2002,7,NYJ,0,0,0
 00-0000065,Sam Adams,DT,2002,7,LV,0,0,0
 00-0000100,Chidi Ahanotu,DT,2002,7,BUF,0,0,0
@@ -22752,7 +22729,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021377,Ed Reed,FS,2002,7,BAL,0,0,0
 00-0021379,Patrick Ramsey,QB,2002,7,WAS,0,0,0
 00-0021381,Quentin Jammer,CB,2002,7,LAC,0,0,0
-,,,2002,7,CAR,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,8,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,8,NYJ,0,0,0
 00-0000100,Chidi Ahanotu,DT,2002,8,BUF,0,0,0
@@ -23661,7 +23637,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021357,Rock Cartwright,RB,2002,8,WAS,1,5,0
 00-0021377,Ed Reed,FS,2002,8,BAL,0,0,0
 00-0021384,Wendell Bryant,DT,2002,8,ARI,0,0,0
-,,,2002,8,PIT,0,0,0
 00-0000017,Donnie Abraham,CB,2002,9,NYJ,0,0,0
 00-0000045,Flozell Adams,OT,2002,9,DAL,0,0,0
 00-0000065,Sam Adams,DT,2002,9,LV,0,0,0
@@ -24591,7 +24566,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021376,T.J. Duckett,RB,2002,9,ATL,1,0,0
 00-0021377,Ed Reed,FS,2002,9,BAL,0,0,0
 00-0021381,Quentin Jammer,CB,2002,9,LAC,0,0,0
-,,,2002,9,ATL,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,10,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,10,NYJ,0,0,0
 00-0000065,Sam Adams,DT,2002,10,LV,0,0,0
@@ -25512,7 +25486,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021381,Quentin Jammer,CB,2002,10,LAC,0,0,0
 00-0021383,Bryant McKinnie,OT,2002,10,MIN,0,0,0
 00-0021384,Wendell Bryant,DT,2002,10,ARI,0,0,0
-,,,2002,10,BAL,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,11,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,11,NYJ,0,0,0
 00-0000065,Sam Adams,DT,2002,11,LV,0,0,0
@@ -26562,7 +26535,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021383,Bryant McKinnie,OT,2002,11,MIN,0,0,0
 00-0021384,Wendell Bryant,DT,2002,11,ARI,0,0,0
 00-0021385,Andre Gurode,C,2002,11,DAL,0,0,0
-,,,2002,11,ATL,0,0,0
 00-0000017,Donnie Abraham,CB,2002,12,NYJ,0,0,0
 00-0000045,Flozell Adams,OT,2002,12,DAL,0,0,0
 00-0000065,Sam Adams,DT,2002,12,LV,0,0,0
@@ -27605,7 +27577,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021381,Quentin Jammer,CB,2002,12,LAC,0,0,0
 00-0021384,Wendell Bryant,DT,2002,12,ARI,0,0,0
 00-0021385,Andre Gurode,C,2002,12,DAL,0,0,0
-,,,2002,12,TEN,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,13,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,13,NYJ,0,0,0
 00-0000045,Flozell Adams,OT,2002,13,DAL,0,0,0
@@ -28679,7 +28650,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021379,Patrick Ramsey,QB,2002,13,WAS,0,0,0
 00-0021381,Quentin Jammer,CB,2002,13,LAC,0,0,0
 00-0021384,Wendell Bryant,DT,2002,13,ARI,0,0,0
-,,,2002,13,NE,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,14,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,14,NYJ,0,0,0
 00-0000032,Tom Ackerman,C,2002,14,TEN,0,0,0
@@ -29731,7 +29701,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021381,Quentin Jammer,CB,2002,14,LAC,0,0,0
 00-0021383,Bryant McKinnie,OT,2002,14,MIN,0,0,0
 00-0021384,Wendell Bryant,DT,2002,14,ARI,0,0,0
-,,,2002,14,CIN,0,0,0
 00-0000017,Donnie Abraham,CB,2002,15,NYJ,0,0,0
 00-0000065,Sam Adams,DT,2002,15,LV,0,0,0
 00-0000100,Chidi Ahanotu,DT,2002,15,BUF,0,0,0
@@ -30769,7 +30738,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021381,Quentin Jammer,CB,2002,15,LAC,0,0,0
 00-0021383,Bryant McKinnie,OT,2002,15,MIN,0,0,0
 00-0021384,Wendell Bryant,DT,2002,15,ARI,0,0,0
-,,,2002,15,ATL,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,16,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,16,NYJ,0,0,0
 00-0000065,Sam Adams,DT,2002,16,LV,0,0,0
@@ -31808,7 +31776,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021381,Quentin Jammer,CB,2002,16,LAC,0,0,0
 00-0021384,Wendell Bryant,DT,2002,16,ARI,0,0,0
 00-0021385,Andre Gurode,C,2002,16,DAL,0,0,0
-,,,2002,16,MIA,0,0,0
 00-0000007,Rabih Abdullah,RB,2002,17,CHI,0,0,0
 00-0000017,Donnie Abraham,CB,2002,17,NYJ,0,0,0
 00-0000108,David Akers,K,2002,17,PHI,0,0,0
@@ -32831,7 +32798,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0021381,Quentin Jammer,CB,2002,17,LAC,0,0,0
 00-0021384,Wendell Bryant,DT,2002,17,ARI,0,0,0
 00-0021385,Andre Gurode,C,2002,17,DAL,0,0,0
-,,,2002,17,PHI,0,0,0
 00-0000045,Flozell Adams,OT,2007,1,DAL,0,0,0
 00-0000065,Sam Adams,DT,2007,1,DEN,0,0,0
 00-0000108,David Akers,K,2007,1,PHI,0,0,0
@@ -33873,7 +33839,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025637,Ahmad Bradshaw,RB,2007,1,NYG,0,0,0
 00-0025638,Chad Nkang,DB,2007,1,JAX,0,0,0
 00-0025640,Chinedum Ndukwe,DB,2007,1,CIN,0,0,0
-,,,2007,1,IND,0,0,0
 00-0000045,Flozell Adams,OT,2007,2,DAL,0,0,0
 00-0000065,Sam Adams,DT,2007,2,DEN,0,0,0
 00-0000108,David Akers,K,2007,2,PHI,0,0,0
@@ -34892,7 +34857,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025682,Lyle Sendlein,C,2007,2,ARI,0,0,0
 00-0025717,Nick Graham,DB,2007,2,PHI,0,0,0
 00-0025751,Nate Harris,LB,2007,2,KC,0,0,0
-,,,2007,2,HOU,0,0,0
 00-0000045,Flozell Adams,OT,2007,3,DAL,0,0,0
 00-0000065,Sam Adams,DT,2007,3,DEN,0,0,0
 00-0000108,David Akers,K,2007,3,PHI,0,0,0
@@ -35892,7 +35856,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025627,Brandon Siler,ILB,2007,3,LAC,0,0,0
 00-0025629,Keyunta Dawson,DE,2007,3,IND,0,0,0
 00-0025717,Nick Graham,DB,2007,3,PHI,0,0,0
-,,,2007,3,BAL,0,0,0
 00-0000108,David Akers,K,2007,4,PHI,0,0,0
 00-0000217,Larry Allen,G,2007,4,SF,0,0,0
 00-0000282,Morten Andersen,K,2007,4,ATL,0,0,0
@@ -36786,7 +36749,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025640,Chinedum Ndukwe,DB,2007,4,CIN,0,0,0
 00-0025717,Nick Graham,DB,2007,4,PHI,0,0,0
 00-0025751,Nate Harris,LB,2007,4,KC,0,0,0
-,,,2007,4,ATL,0,0,0
 00-0000282,Morten Andersen,K,2007,5,ATL,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2007,5,CHI,0,0,0
 00-0000585,Champ Bailey,CB,2007,5,DEN,0,0,0
@@ -37692,7 +37654,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025627,Brandon Siler,ILB,2007,5,LAC,0,0,0
 00-0025708,Matt Moore,QB,2007,5,CAR,0,0,0
 00-0025787,Jared Gaither,OT,2007,5,BAL,0,0,0
-,,,2007,5,HOU,0,0,0
 00-0000045,Flozell Adams,OT,2007,6,DAL,0,0,0
 00-0000108,David Akers,K,2007,6,PHI,0,0,0
 00-0000282,Morten Andersen,K,2007,6,ATL,0,0,0
@@ -38517,7 +38478,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025640,Chinedum Ndukwe,DB,2007,6,CIN,0,0,0
 00-0025717,Nick Graham,DB,2007,6,PHI,0,0,0
 00-0025751,Nate Harris,LB,2007,6,KC,0,0,0
-,,,2007,6,BAL,0,0,0
 00-0000108,David Akers,K,2007,7,PHI,0,0,0
 00-0000282,Morten Andersen,K,2007,7,ATL,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2007,7,CHI,0,0,0
@@ -39417,7 +39377,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025642,Ramzee Robinson,CB,2007,7,DET,0,0,0
 00-0025751,Nate Harris,LB,2007,7,KC,0,0,0
 00-0025787,Jared Gaither,OT,2007,7,BAL,0,0,0
-,,,2007,7,BUF,0,0,0
 00-0000108,David Akers,K,2007,8,PHI,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2007,8,CHI,0,0,0
 00-0000585,Champ Bailey,CB,2007,8,DEN,0,0,0
@@ -40275,7 +40234,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025638,Chad Nkang,DB,2007,8,JAX,0,0,0
 00-0025640,Chinedum Ndukwe,DB,2007,8,CIN,0,0,0
 00-0025717,Nick Graham,DB,2007,8,PHI,0,0,0
-,,,2007,8,CAR,0,0,0
 00-0000045,Flozell Adams,OT,2007,9,DAL,0,0,0
 00-0000065,Sam Adams,DT,2007,9,DEN,0,0,0
 00-0000108,David Akers,K,2007,9,PHI,0,0,0
@@ -41191,7 +41149,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025638,Chad Nkang,DB,2007,9,JAX,0,0,0
 00-0025708,Matt Moore,QB,2007,9,CAR,0,0,0
 00-0025794,Chris Davis,WR,2007,9,NYJ,0,0,0
-,,,2007,9,ATL,0,0,0
 00-0000065,Sam Adams,DT,2007,10,DEN,0,0,0
 00-0000108,David Akers,K,2007,10,PHI,0,0,0
 00-0000282,Morten Andersen,K,2007,10,ATL,0,0,0
@@ -42102,7 +42059,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025708,Matt Moore,QB,2007,10,CAR,0,0,0
 00-0025717,Nick Graham,DB,2007,10,PHI,0,0,0
 00-0025719,Akeem Jordan,ILB,2007,10,PHI,0,0,0
-,,,2007,10,CAR,0,0,0
 00-0000045,Flozell Adams,OT,2007,11,DAL,0,0,0
 00-0000065,Sam Adams,DT,2007,11,DEN,0,0,0
 00-0000108,David Akers,K,2007,11,PHI,0,0,0
@@ -43152,7 +43108,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025697,Jason Trusnik,LB,2007,11,NYJ,0,0,0
 00-0025717,Nick Graham,DB,2007,11,PHI,0,0,0
 00-0025719,Akeem Jordan,ILB,2007,11,PHI,0,0,0
-,,,2007,11,ATL,0,0,0
 00-0000045,Flozell Adams,OT,2007,12,DAL,0,0,0
 00-0000108,David Akers,K,2007,12,PHI,0,0,0
 00-0000282,Morten Andersen,K,2007,12,ATL,0,0,0
@@ -44187,7 +44142,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025717,Nick Graham,DB,2007,12,PHI,0,0,0
 00-0025719,Akeem Jordan,ILB,2007,12,PHI,0,0,0
 00-0025751,Nate Harris,LB,2007,12,KC,0,0,0
-,,,2007,12,DET,0,0,0
 00-0000045,Flozell Adams,OT,2007,13,DAL,0,0,0
 00-0000065,Sam Adams,DT,2007,13,DEN,0,0,0
 00-0000108,David Akers,K,2007,13,PHI,0,0,0
@@ -45230,7 +45184,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025697,Jason Trusnik,LB,2007,13,NYJ,0,0,0
 00-0025719,Akeem Jordan,ILB,2007,13,PHI,0,0,0
 00-0025794,Chris Davis,WR,2007,13,NYJ,1,3,0
-,,,2007,13,GB,0,0,0
 00-0000108,David Akers,K,2007,14,PHI,0,0,0
 00-0000217,Larry Allen,G,2007,14,SF,0,0,0
 00-0000282,Morten Andersen,K,2007,14,ATL,0,0,0
@@ -46283,7 +46236,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025708,Matt Moore,QB,2007,14,CAR,0,0,0
 00-0025717,Nick Graham,DB,2007,14,PHI,0,0,0
 00-0025751,Nate Harris,LB,2007,14,KC,0,0,0
-,,,2007,14,CHI,0,0,0
 00-0000045,Flozell Adams,OT,2007,15,DAL,0,0,0
 00-0000108,David Akers,K,2007,15,PHI,0,0,0
 00-0000282,Morten Andersen,K,2007,15,ATL,0,0,0
@@ -47295,7 +47247,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025668,Michael Adams,DB,2007,15,ARI,0,0,0
 00-0025697,Jason Trusnik,LB,2007,15,NYJ,0,0,0
 00-0025708,Matt Moore,QB,2007,15,CAR,0,0,0
-,,,2007,15,HOU,0,0,0
 00-0000045,Flozell Adams,OT,2007,16,DAL,0,0,0
 00-0000108,David Akers,K,2007,16,PHI,0,0,0
 00-0000282,Morten Andersen,K,2007,16,ATL,0,0,0
@@ -48342,7 +48293,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025719,Akeem Jordan,ILB,2007,16,PHI,0,0,0
 00-0025751,Nate Harris,LB,2007,16,KC,0,0,0
 00-0025786,Jeremy Kapinos,P,2007,16,NYJ,0,0,0
-,,,2007,16,LA,0,0,0
 00-0000108,David Akers,K,2007,17,PHI,0,0,0
 00-0000282,Morten Andersen,K,2007,17,ATL,0,0,0
 00-0000352,Willie Anderson,OT,2007,17,CIN,0,0,0
@@ -49384,7 +49334,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0025751,Nate Harris,LB,2007,17,KC,0,0,0
 00-0025761,Robert Turner,C,2007,17,NYJ,0,0,0
 00-0025790,Mark Washington,LB,2007,17,MIA,0,0,0
-,,,2007,17,NYG,0,0,0
 00-0000108,David Akers,K,2011,1,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,1,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,1,DEN,0,0,0
@@ -50421,7 +50370,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028650,Joe Young,S,2011,1,IND,0,0,0
 00-0028653,Adrian Moten,LB,2011,1,IND,0,0,0
 00-0028660,Dan Bailey,K,2011,1,DAL,0,0,0
-,,,2011,1,GB,0,0,0
 00-0000108,David Akers,K,2011,2,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,2,BAL,0,0,0
 00-0000741,Ronde Barber,FS,2011,2,TB,0,0,0
@@ -51470,7 +51418,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028660,Dan Bailey,K,2011,2,DAL,0,0,0
 00-0028706,Armond Smith,RB,2011,2,CLE,0,0,0
 00-0028738,Byron Bell,G,2011,2,CAR,0,0,0
-,,,2011,2,LV,0,0,0
 00-0000108,David Akers,K,2011,3,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,3,BAL,0,0,0
 00-0000741,Ronde Barber,FS,2011,3,TB,0,0,0
@@ -52511,7 +52458,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028650,Joe Young,S,2011,3,IND,0,0,0
 00-0028660,Dan Bailey,K,2011,3,DAL,0,0,0
 00-0028706,Armond Smith,RB,2011,3,CLE,0,0,0
-,,,2011,3,NE,0,0,0
 00-0000108,David Akers,K,2011,4,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,4,BAL,0,0,0
 00-0000741,Ronde Barber,FS,2011,4,TB,0,0,0
@@ -53559,7 +53505,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028653,Adrian Moten,LB,2011,4,IND,0,0,0
 00-0028660,Dan Bailey,K,2011,4,DAL,0,0,0
 00-0028706,Armond Smith,RB,2011,4,CLE,0,0,0
-,,,2011,4,CAR,0,0,0
 00-0000108,David Akers,K,2011,5,SF,0,0,0
 00-0000585,Champ Bailey,CB,2011,5,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2011,5,TB,0,0,0
@@ -54408,7 +54353,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028625,Ryan Donahue,P,2011,5,DET,0,0,0
 00-0028650,Joe Young,S,2011,5,IND,0,0,0
 00-0028653,Adrian Moten,LB,2011,5,IND,0,0,0
-,,,2011,5,PHI,0,0,0
 00-0000108,David Akers,K,2011,6,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,6,BAL,0,0,0
 00-0000741,Ronde Barber,FS,2011,6,TB,0,0,0
@@ -55254,7 +55198,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028660,Dan Bailey,K,2011,6,DAL,0,0,0
 00-0028694,James Dockery,DB,2011,6,CLE,0,0,0
 00-0028738,Byron Bell,G,2011,6,CAR,0,0,0
-,,,2011,6,ATL,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,7,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,7,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2011,7,TB,0,0,0
@@ -56109,7 +56052,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028694,James Dockery,DB,2011,7,CLE,0,0,0
 00-0028738,Byron Bell,G,2011,7,CAR,0,0,0
 00-0028825,Terrelle Pryor,WR,2011,7,LV,0,0,0
-,,,2011,7,CAR,0,0,0
 00-0000108,David Akers,K,2011,8,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,8,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,8,DEN,0,0,0
@@ -56974,7 +56916,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028653,Adrian Moten,LB,2011,8,IND,0,0,0
 00-0028660,Dan Bailey,K,2011,8,DAL,0,0,0
 00-0028738,Byron Bell,G,2011,8,CAR,0,0,0
-,,,2011,8,ARI,0,0,0
 00-0000108,David Akers,K,2011,9,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,9,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,9,DEN,0,0,0
@@ -57899,7 +57840,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028653,Adrian Moten,LB,2011,9,IND,0,0,0
 00-0028660,Dan Bailey,K,2011,9,DAL,0,0,0
 00-0028664,Chris Jones,P,2011,9,DAL,0,0,0
-,,,2011,9,BUF,0,0,0
 00-0000108,David Akers,K,2011,10,SF,0,0,0
 00-0000585,Champ Bailey,CB,2011,10,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2011,10,TB,0,0,0
@@ -58918,7 +58858,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028738,Byron Bell,G,2011,10,CAR,0,0,0
 00-0028742,Thomas Keiser,OLB,2011,10,CAR,0,0,0
 00-0028767,Sterling Moore,CB,2011,10,NE,0,0,0
-,,,2011,10,LV,0,0,0
 00-0000108,David Akers,K,2011,11,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,11,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,11,DEN,0,0,0
@@ -59850,7 +59789,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028694,James Dockery,DB,2011,11,CLE,0,0,0
 00-0028742,Thomas Keiser,OLB,2011,11,CAR,0,0,0
 00-0028767,Sterling Moore,CB,2011,11,NE,0,0,0
-,,,2011,11,DEN,0,0,0
 00-0000108,David Akers,K,2011,12,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,12,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,12,DEN,0,0,0
@@ -60885,7 +60823,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028660,Dan Bailey,K,2011,12,DAL,0,0,0
 00-0028694,James Dockery,DB,2011,12,CLE,0,0,0
 00-0028767,Sterling Moore,CB,2011,12,NE,0,0,0
-,,,2011,12,DET,0,0,0
 00-0000108,David Akers,K,2011,13,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,13,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,13,DEN,0,0,0
@@ -61909,7 +61846,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028742,Thomas Keiser,OLB,2011,13,CAR,0,0,0
 00-0028767,Sterling Moore,CB,2011,13,NE,0,0,0
 00-0028824,Tracy Wilson,DB,2011,13,NYJ,0,0,0
-,,,2011,13,SEA,0,0,0
 00-0000108,David Akers,K,2011,14,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,14,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,14,DEN,0,0,0
@@ -62979,7 +62915,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028660,Dan Bailey,K,2011,14,DAL,0,0,0
 00-0028665,Kevin Kowalski,C,2011,14,DAL,0,0,0
 00-0028824,Tracy Wilson,DB,2011,14,NYJ,0,0,0
-,,,2011,14,CLE,0,0,0
 00-0000108,David Akers,K,2011,15,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,15,BAL,0,0,0
 00-0000741,Ronde Barber,FS,2011,15,TB,0,0,0
@@ -64026,7 +63961,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028738,Byron Bell,G,2011,15,CAR,0,0,0
 00-0028742,Thomas Keiser,OLB,2011,15,CAR,0,0,0
 00-0028824,Tracy Wilson,DB,2011,15,NYJ,0,0,0
-,,,2011,15,ATL,0,0,0
 00-0000108,David Akers,K,2011,16,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,16,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,16,DEN,0,0,0
@@ -65079,7 +65013,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028738,Byron Bell,G,2011,16,CAR,0,0,0
 00-0028742,Thomas Keiser,OLB,2011,16,CAR,0,0,0
 00-0028824,Tracy Wilson,DB,2011,16,NYJ,0,0,0
-,,,2011,16,IND,0,0,0
 00-0000108,David Akers,K,2011,17,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2011,17,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2011,17,DEN,0,0,0
@@ -66123,7 +66056,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0028742,Thomas Keiser,OLB,2011,17,CAR,0,0,0
 00-0028746,Darvin Adams,WR,2011,17,CAR,0,0,0
 00-0028767,Sterling Moore,CB,2011,17,NE,0,0,0
-,,,2011,17,GB,0,0,0
 00-0000108,David Akers,K,2012,1,SF,0,0,0
 00-0000585,Champ Bailey,CB,2012,1,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2012,1,TB,0,0,0
@@ -67158,7 +67090,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029701,Ryan Tannehill,QB,2012,1,MIA,0,0,0
 00-0029707,Justin Blackmon,WR,2012,1,JAX,3,24,0
 00-0029708,Kendall Wright,WR,2012,1,TEN,5,37,0
-,,,2012,1,NYG,0,0,0
 00-0000108,David Akers,K,2012,2,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,2,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,2,DEN,0,0,0
@@ -68205,7 +68136,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029701,Ryan Tannehill,QB,2012,2,MIA,0,0,0
 00-0029707,Justin Blackmon,WR,2012,2,JAX,0,0,0
 00-0029708,Kendall Wright,WR,2012,2,TEN,2,24,1
-,,,2012,2,GB,0,0,0
 00-0000108,David Akers,K,2012,3,SF,0,0,0
 00-0000585,Champ Bailey,CB,2012,3,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2012,3,TB,0,0,0
@@ -69251,7 +69181,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029701,Ryan Tannehill,QB,2012,3,MIA,0,0,0
 00-0029707,Justin Blackmon,WR,2012,3,JAX,1,7,0
 00-0029708,Kendall Wright,WR,2012,3,TEN,7,41,0
-,,,2012,3,NYG,0,0,0
 00-0000108,David Akers,K,2012,4,SF,0,0,0
 00-0000585,Champ Bailey,CB,2012,4,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2012,4,TB,0,0,0
@@ -70211,7 +70140,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,4,LV,2,29,0
 00-0029707,Justin Blackmon,WR,2012,4,JAX,6,48,0
 00-0029708,Kendall Wright,WR,2012,4,TEN,4,46,1
-,,,2012,4,CLE,0,0,0
 00-0000108,David Akers,K,2012,5,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,5,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,5,DEN,0,0,0
@@ -71136,7 +71064,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029701,Ryan Tannehill,QB,2012,5,MIA,0,0,0
 00-0029707,Justin Blackmon,WR,2012,5,JAX,3,40,0
 00-0029708,Kendall Wright,WR,2012,5,TEN,9,66,0
-,,,2012,5,LA,0,0,0
 00-0000108,David Akers,K,2012,6,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,6,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,6,DEN,0,0,0
@@ -72050,7 +71977,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029697,Coby Fleener,TE,2012,6,IND,4,42,0
 00-0029701,Ryan Tannehill,QB,2012,6,MIA,0,0,0
 00-0029708,Kendall Wright,WR,2012,6,TEN,6,71,0
-,,,2012,6,TEN,2,11,0
 00-0000108,David Akers,K,2012,7,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,7,BAL,0,0,0
 00-0000741,Ronde Barber,FS,2012,7,TB,0,0,0
@@ -72896,7 +72822,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,7,LV,0,0,0
 00-0029707,Justin Blackmon,WR,2012,7,JAX,1,7,0
 00-0029708,Kendall Wright,WR,2012,7,TEN,3,19,0
-,,,2012,7,SF,0,0,0
 00-0000108,David Akers,K,2012,8,SF,0,0,0
 00-0000585,Champ Bailey,CB,2012,8,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2012,8,TB,0,0,0
@@ -73798,7 +73723,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,8,LV,0,0,0
 00-0029707,Justin Blackmon,WR,2012,8,JAX,4,67,0
 00-0029708,Kendall Wright,WR,2012,8,TEN,4,47,1
-,,,2012,8,MIN,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,9,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,9,DEN,0,0,0
 00-0000741,Ronde Barber,FS,2012,9,TB,0,0,0
@@ -74733,7 +74657,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,9,LV,0,0,0
 00-0029707,Justin Blackmon,WR,2012,9,JAX,5,32,1
 00-0029708,Kendall Wright,WR,2012,9,TEN,2,30,0
-,,,2012,9,LAC,0,0,0
 00-0000108,David Akers,K,2012,10,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,10,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,10,DEN,0,0,0
@@ -75649,7 +75572,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,10,LV,2,26,0
 00-0029707,Justin Blackmon,WR,2012,10,JAX,3,25,0
 00-0029708,Kendall Wright,WR,2012,10,TEN,1,9,1
-,,,2012,10,JAX,0,0,0
 00-0000108,David Akers,K,2012,11,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,11,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,11,DEN,0,0,0
@@ -76585,7 +76507,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029701,Ryan Tannehill,QB,2012,11,MIA,0,0,0
 00-0029702,Juron Criner,WR,2012,11,LV,3,23,1
 00-0029707,Justin Blackmon,WR,2012,11,JAX,7,236,1
-,,,2012,11,MIA,0,0,0
 00-0000108,David Akers,K,2012,12,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,12,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,12,DEN,0,0,0
@@ -77633,7 +77554,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,12,LV,3,23,0
 00-0029707,Justin Blackmon,WR,2012,12,JAX,5,62,1
 00-0029708,Kendall Wright,WR,2012,12,TEN,5,48,0
-,,,2012,12,DET,0,0,0
 00-0000108,David Akers,K,2012,13,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,13,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,13,DEN,0,0,0
@@ -78659,7 +78579,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,13,LV,4,26,0
 00-0029707,Justin Blackmon,WR,2012,13,JAX,1,9,0
 00-0029708,Kendall Wright,WR,2012,13,TEN,6,78,0
-,,,2012,13,ATL,0,0,0
 00-0000108,David Akers,K,2012,14,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,14,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,14,DEN,0,0,0
@@ -79709,7 +79628,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029702,Juron Criner,WR,2012,14,LV,2,24,0
 00-0029707,Justin Blackmon,WR,2012,14,JAX,6,57,0
 00-0029708,Kendall Wright,WR,2012,14,TEN,5,39,0
-,,,2012,14,DEN,0,0,0
 00-0000108,David Akers,K,2012,15,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,15,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,15,DEN,0,0,0
@@ -80754,7 +80672,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029701,Ryan Tannehill,QB,2012,15,MIA,0,0,0
 00-0029707,Justin Blackmon,WR,2012,15,JAX,6,93,0
 00-0029708,Kendall Wright,WR,2012,15,TEN,3,31,0
-,,,2012,15,CIN,0,0,0
 00-0000108,David Akers,K,2012,16,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,16,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,16,DEN,0,0,0
@@ -81801,7 +81718,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029697,Coby Fleener,TE,2012,16,IND,1,2,0
 00-0029701,Ryan Tannehill,QB,2012,16,MIA,0,0,0
 00-0029707,Justin Blackmon,WR,2012,16,JAX,7,79,1
-,,,2012,16,DET,0,0,0
 00-0000108,David Akers,K,2012,17,SF,0,0,0
 00-0000551,Brendon Ayanbadejo,ILB,2012,17,BAL,0,0,0
 00-0000585,Champ Bailey,CB,2012,17,DEN,0,0,0
@@ -82852,7 +82768,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0029701,Ryan Tannehill,QB,2012,17,MIA,0,0,0
 00-0029707,Justin Blackmon,WR,2012,17,JAX,6,79,1
 00-0029708,Kendall Wright,WR,2012,17,TEN,2,40,0
-,,,2012,17,ATL,0,0,0
 00-0023459,Aaron Rodgers,QB,2026,1,PIT,0,0,0
 00-0025565,Nick Folk,K,2026,1,ATL,0,0,0
 00-0026190,Calais Campbell,DE,2026,1,BAL,0,0,0
@@ -83970,7 +83885,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0041549,Darrell Jackson Jr.,DT,2026,1,NYJ,0,0,0
 00-0041569,Gabe Jacas,LB,2026,1,NE,0,0,0
 00-0041581,Brett Thorson,P,2026,1,MIN,0,0,0
-,,,2026,1,SEA,0,0,0
 00-0023459,Aaron Rodgers,QB,2026,2,PIT,0,0,0
 00-0025565,Nick Folk,K,2026,2,ATL,0,0,0
 00-0026190,Calais Campbell,DE,2026,2,BAL,0,0,0
@@ -85077,7 +84991,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0041563,Jermod McCoy,CB,2026,2,LV,0,0,0
 00-0041569,Gabe Jacas,LB,2026,2,NE,0,0,0
 00-0041581,Brett Thorson,P,2026,2,MIN,0,0,0
-,,,2026,2,BUF,0,0,0
 00-0023459,Aaron Rodgers,QB,2026,3,PIT,0,0,0
 00-0025565,Nick Folk,K,2026,3,ATL,0,0,0
 00-0026190,Calais Campbell,DE,2026,3,BAL,0,0,0
@@ -86191,7 +86104,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0041557,Gracen Halton,DT,2026,3,SF,0,0,0
 00-0041558,Sam Roush,TE,2026,3,CHI,1,16,0
 00-0041569,Gabe Jacas,LB,2026,3,NE,0,0,0
-,,,2026,3,ATL,0,0,0
 00-0023459,Aaron Rodgers,QB,2026,4,PIT,0,0,0
 00-0025565,Nick Folk,K,2026,4,ATL,0,0,0
 00-0026190,Calais Campbell,DE,2026,4,BAL,0,0,0
@@ -87301,7 +87213,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0041557,Gracen Halton,DT,2026,4,SF,0,0,0
 00-0041558,Sam Roush,TE,2026,4,CHI,1,8,0
 00-0041569,Gabe Jacas,LB,2026,4,NE,0,0,0
-,,,2026,4,CLE,0,0,0
 00-0023459,Aaron Rodgers,QB,2026,5,PIT,0,0,0
 00-0025565,Nick Folk,K,2026,5,ATL,0,0,0
 00-0026190,Calais Campbell,DE,2026,5,BAL,0,0,0
@@ -88358,7 +88269,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0041569,Gabe Jacas,LB,2026,5,NE,0,0,0
 00-0041579,Seydou Traore,TE,2026,5,MIA,0,0,0
 00-0041581,Brett Thorson,P,2026,5,MIN,0,0,0
-,,,2026,5,DAL,0,0,0
 00-0023459,Aaron Rodgers,QB,2026,6,PIT,0,0,0
 00-0025565,Nick Folk,K,2026,6,ATL,0,0,0
 00-0026190,Calais Campbell,DE,2026,6,BAL,0,0,0
@@ -89340,7 +89250,6 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0041557,Gracen Halton,DT,2026,6,SF,0,0,0
 00-0041558,Sam Roush,TE,2026,6,CHI,0,0,0
 00-0041569,Gabe Jacas,LB,2026,6,NE,0,0,0
-,,,2026,6,SEA,0,0,0
 00-0023459,Aaron Rodgers,QB,2026,7,PIT,0,0,0
 00-0025565,Nick Folk,K,2026,7,ATL,0,0,0
 00-0026190,Calais Campbell,DE,2026,7,BAL,0,0,0
@@ -90299,4 +90208,3 @@ player_id,player_display_name,position,season,week,team,receptions,receiving_yar
 00-0041569,Gabe Jacas,LB,2026,7,NE,0,0,0
 00-0041579,Seydou Traore,TE,2026,7,MIA,0,0,0
 00-0041581,Brett Thorson,P,2026,7,MIN,0,0,0
-,,,2026,7,NE,0,0,0

@@ -9,7 +9,7 @@ stats = stats[stats["season_type"] == "REG"]
 cols = ["player_id", "player_display_name", "position", "season", "week",
         "team", "receptions", "receiving_yards", "receiving_tds"]
 stats = stats[cols]
-
+stats = stats.dropna(subset=["player_id"])
 stats.to_csv("receiving_weekly.csv", index=False)
 print(stats.shape)
 print(stats.head())
@@ -17,3 +17,4 @@ print(stats.head())
 print(stats[stats["player_display_name"] == "Randy Moss"].query("season == 2007"))
 print(stats[stats["player_display_name"] == "Calvin Johnson"].query("season == 2011")) 
 
+stats = stats.dropna(subset=["player_id"])
